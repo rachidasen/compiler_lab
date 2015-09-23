@@ -1,0 +1,4 @@
+int a b
+a 20
+b 25
+5cpx
